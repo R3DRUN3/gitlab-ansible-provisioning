@@ -1,0 +1,8 @@
+---
+- hosts: all
+  become: yes
+  remote_user: vagrant
+
+  roles:
+    - role: apt_update
+    - role: geerlingguy.gitlab

@@ -1,0 +1,2 @@
+# Roles installed via Ansible Galaxy
+- src: geerlingguy.gitlab
