@@ -33,3 +33,5 @@ sudo nano /etc/gitlab/initial_root_password
 ```
 That is it!
 Now you can start experimenting with your brand new on-prem Gitlab instance!
+
+![alt_text](https://github.com/R3DRUN3/gitlab-ansible-provisioning/blob/main/images/gitlab.png)
